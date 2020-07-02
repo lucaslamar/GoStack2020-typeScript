@@ -1,4 +1,4 @@
-<a href="https://www.notion.so/Type-5712aeab312d44fcba0aa88895caad36"><img src="assets/logo.png" height="200px" align="right"/></a>
+<a href="https://www.notion.so/Type-5712aeab312d44fcba0aa88895caad36"><img src="assets/logo.jpeg" height="200px" align="right"/></a>
 
 # Node com TypeScript
 
