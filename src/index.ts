@@ -10,5 +10,5 @@ const port = 3000;
 server.get('/', helloTypeScript ); 
 
 server.listen(port, () => {
-  console.log('SERVER START! ')
+  console.log('SERVER START! => http://localhost:3000 ');
 });
